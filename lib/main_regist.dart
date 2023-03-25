@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:login_register/database/db.dart';
 import 'package:logger/logger.dart';
-import 'dart:math';
 import 'package:intl/intl.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
